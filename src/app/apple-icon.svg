@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="36" fill="#0D0E11" />
+  <rect width="180" height="180" rx="36" fill="none" stroke="rgba(255, 255, 255, 0.12)" stroke-width="2" />
+  <!-- Rein Line Brand Mark Scaled for Apple Touch Icon -->
+  <line x1="24" y1="90" x2="64" y2="90" stroke="#A8834A" stroke-width="9" stroke-linecap="round" />
+  <circle cx="90" cy="90" r="24" stroke="#A8834A" stroke-width="9" fill="none" />
+  <line x1="116" y1="90" x2="156" y2="90" stroke="#A8834A" stroke-width="9" stroke-linecap="round" />
+</svg>
